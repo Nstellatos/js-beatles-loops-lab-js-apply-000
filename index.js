@@ -4,7 +4,7 @@ function theBeatlesPlay([musicians, instruments]) { // parameters
   var musicians = ["John Lennon"];
   var instruments = ["guitar"]
 
-  for (var i = 0; i < musicians.length; i++) {
+  for (var i = 0; i < musicians.length; i++) { //for loops run for a specific number of times
   	array.push(musicians[i] + ' plays ' + instruments[i]);
   } // for loop will execute code multiple times
   // i is a common counter variable
